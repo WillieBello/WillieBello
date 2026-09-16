@@ -38,19 +38,19 @@ Un ingeniero electronico entusiasta del mundo de la programacion en la cienca de
 
 <!-- Iconos de Redes Sociales -->
 <p align="left">
-  <a href="https://github.com/[TU_USUARIO]" target="_blank">
+  <a href="https://github.com/WillieBello" target="_blank">
     <img src="https://cdn.simpleicons.org/github/000000" width="35" height="35" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/[TU_USUARIO]" target="_blank">
+  <a href="https://linkedin.com/in/WillieBello" target="_blank">
     <img src="https://cdn.simpleicons.org/linkedin/000000" width="35" height="35" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/[TU_USUARIO]" target="_blank">
+  <a href="https://instagram.com/" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/000000" width="35" height="35" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/[TU_USUARIO]" target="_blank">
+  <a href="https://x.com/" target="_blank">
     <img src="https://cdn.simpleicons.org/x/000000" width="35" height="35" alt="X/Twitter" />
   </a>
 </p>
