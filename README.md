@@ -7,22 +7,50 @@ Un ingeniero electronico entusiasta del mundo de la programacion en la cienca de
 #### 💻 Tecnologías y Herramientas
 
 **Lenguajes y Frameworks:**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Tools:**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" />
+</p>
 
 **Bases de Datos:**
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+<p align="left">
+<!-- Bases de Datos (Relacionales y No Relacionales) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
+</p>
 
 **Control de Versiones y Entorno:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="left">
+  <!-- Control de Versiones y Entorno -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+</p>
+---
 
-#### 🚀 Sobre mi trabajo
-* Desarrollo y mantenimiento de interfaces de usuario para aplicaciones de escritorio.
-* Integración de sistemas de terceros (CRMs, logística, etc.) mediante el consumo de APIs.
-* Creación de tablas, consultas estructuradas y manejo de datos desde CSV hacia bases de datos.
+* 🔭 Actualmente trabajando en **soluciones de escritorio WPF e integraciones de APIs**
+* 🌱 Actualmente desarrolando mi mejora de habilidades en **NodeJS y REACT**
+* 📫 Cómo contactarme: **willie279@gmail.com - www.linkedin.com/in/WillieBello** 
+* ⚡ Dato curioso: **soyf lector recurrente de novelas historicas y los datos cuirosos de estadisticas dado practica deportiva constante**
 
-📫 **Cómo contactarme:** [Tu enlace de LinkedIn, portafolio o correo]
+<!-- Iconos de Redes Sociales -->
+<p align="left">
+  <a href="https://github.com/[TU_USUARIO]" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/000000" width="35" height="35" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/[TU_USUARIO]" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/000000" width="35" height="35" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/[TU_USUARIO]" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/000000" width="35" height="35" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/[TU_USUARIO]" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000" width="35" height="35" alt="X/Twitter" />
+  </a>
+</p>
