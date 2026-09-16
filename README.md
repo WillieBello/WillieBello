@@ -2,7 +2,7 @@
 
 ### Soy WillieBello 👋
 
-Soy un desarrollador de software enfocado en crear soluciones robustas, aplicaciones de escritorio e integraciones de backend eficientes.
+Un ingeniero electronico entusiasta del mundo de la programacion en la cienca de datos. Desarrollador autodidacta con alto sentido de la responsabilidad y un background de mas de 10 años en desarollo de proyecto de telecomunicaciones y diseño RITEL.
 
 #### 💻 Tecnologías y Herramientas
 
